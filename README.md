@@ -8,7 +8,7 @@
 projeto construído no evento Next Level Week da Rocketseat. 
 
 
-[🔗 Clique aqui para acessar](https://aonc-ctrl.github.io/NLW/)
+[🔗 Clique aqui para acessar](https://erlan-ctrl.github.io/NLW/)
 
 
 ## 🤖 Tecnologias
